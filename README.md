@@ -12,7 +12,9 @@ For such cases, for example, in date and time operations I included standart SQL
 The test contains 50 questions and consists of 3 category:
 
 Easy
+
 Medium
+
 Hard
 
 
@@ -26,7 +28,7 @@ to figure out what data to store, the entities, their attributes and also how en
 
 ### Questions 1- 17
 
-### use Practise;
+use Practise;
 
 select * from admissions;
 select * from doctors;
