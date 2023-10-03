@@ -1,8 +1,6 @@
 # sql-practise.com
 
-This repository is dedicated to students and professionals who would like to brush up and advance their SQL skills for their careers. 
-I found (https://www.sql-practice.com) educational and the web site user friendly however there wasn’t the complete solution book 
-shared on the web site neither on GitHub.So now you can get the answers with alternative solutions for each question
+Within this repository, we've tailored resources for students and professionals seeking to refine their SQL skills and advance in their careers. My exploration of (https://www.sql-practice.com) revealed it to be an educational and user-friendly website. However, a notable absence exists — a complete solution book is neither available on the website nor on GitHub. The good news? You can now access answers along with alternative solutions for every question.
 
 I have used SQL Workbranch as main Database Management Systems (DBMS) and therefore you may encounter 
 some queries that work in PostgreSQL may not work in other DBMS such as SQL Server or MySQL as some implementations slight vary in syntax.
